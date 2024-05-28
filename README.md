@@ -1,9 +1,6 @@
 ## BEM VINDO 👋
-
 <!--
 **Me chamo Gabriele Contarin.
-
-
 
 - Estou estudando na Alura ...
 - 🌱 Estou me desenvolvendo na linguagem JavaScript ...
